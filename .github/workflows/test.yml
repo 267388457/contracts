@@ -1,9 +1,8 @@
-name: test
-
-on:
-  push:
-    branches:
-      - master
+name: rashedi 
+on: r0905
+  push: ra0905
+    branches: 
+     rah-master
   pull_request:
 
 env:
